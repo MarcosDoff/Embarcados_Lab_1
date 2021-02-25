@@ -1,0 +1,18 @@
+# ninja log v5
+1	46	6359899060262881	C:/Users/T-Gamer/Desktop/Universidade/Embarcados/github/EK-TM4C1294_IAR8/Projects/extensao/Debug/Obj/startup_TM4C1294.o	265fdd3c58125fbf
+30	243	6359899062243496	C:/Users/T-Gamer/Desktop/Universidade/Embarcados/github/EK-TM4C1294_IAR8/Projects/extensao/Debug/Obj/main.o	40288e44066b4d00
+15	324	6359899063033722	C:/Users/T-Gamer/Desktop/Universidade/Embarcados/github/EK-TM4C1294_IAR8/Projects/extensao/Debug/Obj/system_TM4C1294_TW.o	901da3dec0dc0cb
+334	456	6359899064424036	C:/Users/T-Gamer/Desktop/Universidade/Embarcados/github/EK-TM4C1294_IAR8/Projects/extensao/Debug/Exe/extensao.out	e1e9241217506af7
+2	94	6359901005190595	C:/Users/T-Gamer/Desktop/Universidade/Embarcados/github/EK-TM4C1294_IAR8/Projects/extensao/Debug/Obj/main.o	40288e44066b4d00
+100	179	6359901006080795	C:/Users/T-Gamer/Desktop/Universidade/Embarcados/github/EK-TM4C1294_IAR8/Projects/extensao/Debug/Exe/extensao.out	e1e9241217506af7
+2	208	6359903094183716	C:/Users/T-Gamer/Desktop/Universidade/Embarcados/github/EK-TM4C1294_IAR8/Projects/extensao/Debug/Obj/main.o	40288e44066b4d00
+217	294	6359903095103924	C:/Users/T-Gamer/Desktop/Universidade/Embarcados/github/EK-TM4C1294_IAR8/Projects/extensao/Debug/Exe/extensao.out	e1e9241217506af7
+2	100	6359904571116904	C:/Users/T-Gamer/Desktop/Universidade/Embarcados/github/EK-TM4C1294_IAR8/Projects/extensao/Debug/Obj/main.o	40288e44066b4d00
+107	185	6359904572007097	C:/Users/T-Gamer/Desktop/Universidade/Embarcados/github/EK-TM4C1294_IAR8/Projects/extensao/Debug/Exe/extensao.out	e1e9241217506af7
+2	92	6359904819842204	C:/Users/T-Gamer/Desktop/Universidade/Embarcados/github/EK-TM4C1294_IAR8/Projects/extensao/Debug/Obj/main.o	40288e44066b4d00
+101	178	6359904820751096	C:/Users/T-Gamer/Desktop/Universidade/Embarcados/github/EK-TM4C1294_IAR8/Projects/extensao/Debug/Exe/extensao.out	e1e9241217506af7
+2	92	6359905541160267	C:/Users/T-Gamer/Desktop/Universidade/Embarcados/github/EK-TM4C1294_IAR8/Projects/extensao/Debug/Obj/main.o	40288e44066b4d00
+101	179	6359905542070372	C:/Users/T-Gamer/Desktop/Universidade/Embarcados/github/EK-TM4C1294_IAR8/Projects/extensao/Debug/Exe/extensao.out	e1e9241217506af7
+2	122	6359908217679085	C:/Users/T-Gamer/Desktop/Universidade/Embarcados/github/EK-TM4C1294_IAR8/Projects/extensao/Debug/Obj/system_TM4C1294_TW.o	4b88284e533a76e4
+17	143	6359908217759101	C:/Users/T-Gamer/Desktop/Universidade/Embarcados/github/EK-TM4C1294_IAR8/Projects/extensao/Debug/Obj/main.o	ca7d65e182547e
+153	252	6359908219029402	C:/Users/T-Gamer/Desktop/Universidade/Embarcados/github/EK-TM4C1294_IAR8/Projects/extensao/Debug/Exe/extensao.out	e1e9241217506af7
